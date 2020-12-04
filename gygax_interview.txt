@@ -1,0 +1,729 @@
+It's fairly common knowledge that D&D owes its origins to the International Federation ofWargaming and the
+Chainmail rules; tell me a bit about how all that got started. What was Chainmail?
+
+The IFW was co-founded by Bill Speer, Scott Duncan and I... oh, I don't know, I've lost track— '63
+probably? I said you know, let's do a real organization, instead of one of these 'conquer the world' things.
+You know, 'we'll beat you at D-Day, and then we own the United States,' or whatever. So we put
+together and had this organization. I was initially the secretary— I don't really know what I was, really—
+but we got up to about 600 or 700 people. Which isn't bad considering that in those days there weren't
+any computers around. Had there been computers and the Internet, we would have been much larger.
+
+Was that mostly based in the US?
+
+Actually we had a fair number of foreign members. . . mostly English speaking, though. It was US,
+Canada, the UK, and so forth. We did a magazine, but that aside, there were interest groups within the
+IFW, and mine was the Castle and Crusade Society. One of the things I did was I published a set of 1:20—
+one figure equals twenty men— rules for medieval wargames, that I developed from some rules originally
+written by Jeff Perren. To that I added 1:1 rules, where one figure was one man, and I also added a set of
+jousting rules, and we published that Lake Geneva Tactical Studies Association Medieval Military
+Miniatures rules.
+
+[We added] a fantasy supplement that had heroes and superheroes— heroes had four dice instead of
+being 'fourth level,' and superheroes had eight dice instead of being 'eighth level,' and wizards were
+basically two dice guys who could throw fireballs and lightning bolts and so forth. In fact for a long time,
+the burst radius of the wizard's fireball was the burst circle for a catapult, and the lightning bolt was very
+much like the old cannons used in medieval warfare. So we would use the regular military miniatures
+rules for the spells. That was published in 1971 by Guidon Games as the Chainmail medieval military
+miniatures rules with a fantasy supplement. That fantasy supplement was the tail that wagged the dog.
+
+So that was really the inspiration for Dungeons & Dragons?
+
+Oh, absolutely— no question about it. As I said, a hero in D&D is fourth level, a hero in Chainmail has
+four hit dice. All I did with the armor class (and this is why the armor classes in D&D are a little strange)
+is I reversed the armor classes in Chainmail. Of course Chainmail used a bell curve— it used 2d6 — to
+determine hits, then we went to a d20. We used numbered chits— basically poker chips. Then in a school
+supply catalog I discovered the Platonic solids. . . numbered, yet. And I said 'aha!' We now have 4- and 8-
+
+
+
+sided, and 12- and 20-sided dice. Gaming had a breakthrough.
+
+
+
+How did you get from Chainmail to the Dungeons & Dragons?
+
+A lot of miniatures wargames that I would do on the tabletop, for example, I would say 'okay, you're the
+Viking chief. Here's a map of the area, here's the hill fort, here's the local thane's castle, here's the abbey.
+Where do you want to land, where are you going to raid?' And then another copy of the map would be
+given to you as the thane, or as the commander of the hill fort, or as the abbot. So everybody was playing
+a singular role, and all the other men were theirs to command. This is a concept that came through in
+Dungeons & Dragons as hirelings.
+
+So we were playing this game where you are this guy, right there, and if he got killed, it was over. Why
+we personified them to that depth, the game went a long way into exploring the subterranean world.
+Then it started to become a matter of whether you had a sword or an axe, and a backpack, and rope and
+spikes and all these spelunking tools... That was Dave's main thing— Dave Arneson— to start as a zero
+level hero and go from there.
+
+I had mines and counter-mines in Chainmail. You know, when you're doing it on a tabletop, though, you
+still can't dig under the sand; you have to use paper and pencil for that. So Dave said Took at this, I'm
+running this campaign," and I said 'well look at that— I think you have something there.' So I went to
+work and wrote Dungeons & Dragons.
+
+So even the wargames that you were running had a lot of role-playing elements in them?
+
+Have you ever played Diplomacy? To put yourself in the role of the Kaiser, or the arch-duke, or the
+Sultan of the Ottoman Empire and so forth... there was always a little role-playing in most miniatures
+games, and in Diplomacy. I always enjoyed writing press releases more than working out the moves.
+
+How similar is the current standard of role-playing to what you originally envisioned in the first D&D rules set?
+How has it evolved?
+
+Those are all such niche markets. Pretensions aside, there's only two games that pretty much dominate.
+You have new Dungeons & Dragons, which is pretty much hack-and-slash power gaming, and Vampire,
+which is the only LARP (Live Action Role-Playing game). Between them there's the bulk of all role-
+playing.
+
+[With Vampire], I think the guy who did it thought it would be a good way to meet girls, [laughs] It's the
+only game that has a big female audience. I doubt that you have more than a 5% female audience in most
+role-playing games. I have no real handle on what Vampire has, but from most groups I've seen, I'd say
+it's closer to 50/50. It's pretty impressive.
+
+
+
+Do some of the directions that people have taken role-playing games surprise you?
+
+I think that it's very interesting. To me, to say that a role-playing game is all story is nonsense. If it's all
+about the story, pick up a darned book and read it. The story comes after the play; you don't know what
+the story is going to be until that particular episode is finished. Then you can tell the story. But until then
+it isn't the Master directing the players in little roles— that's called theater. It's the players impacting the
+environment, and the base story that has brought them there, and then creating a story from there. To do
+that, you need lots of things. Which of those you choose to emphasize is strictly up to the group, but a
+good role-playing game should allow you to emphasize any particular aspect that your group wants to
+use. It could be politics and intrigue, or it could be hack and slash— that is the most popular. It might be
+basic problem solving. It could be just about anything that you'd normally use in real life to complete
+what the task is, or try to complete it.
+
+It seems to me that if anything, rather than "role-playing" being the most important, role assumption is
+the most important. That is to put yourself into the shoes of that make-believe character and try to think
+and act as would that person. That doesn't mean you have to stand and give a soliloquy to bore the other
+players with, but to be acting and thinking "in-game."
+
+Making decisions based on your character's motivations.
+
+Right. Part of it is good play, and I don't think that good play mandates that you be a Shakespearian
+actor, but it does mean that you need to think cleverly for that person. SO if that character is somewhat
+stupid, you act that way, and if they are supposed to be clever, you do that. And each time you play the
+game with a different persona, you act differently. It's demanding.
+
+There are many interesting twists, though. For a while I was getting one to two emails a week about 'how
+can I market this new role-playing I've got.' And I'd say Took, I've done consulting work on games, and I
+charge $50 per hour based on a ten-hour advance.' But my advice is forget it. There are too many of them
+out there, and you have virtually no chance. The market is overcrowded, distributors don't want your
+game, and retailers don't want another product on their shelves that nobody knows about. Look to see
+what you can do online.
+
+There are quite a few freeware role-playing games on the Internet these days.. .
+
+Right. And they're worth every penny you pay for them. I mean, there are really only two basic
+approaches that you can take. One is the archetype class system, and the other is the skill-based system.
+And permutations thereof. My new game, Lejendary Adventure, is a skill-based system. It's a rules-light
+system, so I've lumped certain skills together and said 'well, if you already know this, then go ahead.'
+Then I've created certain "orders," so if you have this ability and this ability and this ability, you are
+recognized as a mage, or a warrior, or whatever. So you get the archetypes too. I'm trying to cheat and
+use both approaches, but ultimately there are just the two basic types.
+
+
+
+So it's less about the rules and more about the type of game that you build around them?
+
+Yeah, right. There are only so many mechanics that you can use. A game is just mechanics and
+presentation, and presentation is probably the most important thing. Does it really matter if you roll a
+d20, or a dlOO, or 3d6... anyone can figure out the probabilities. All you're doing is generating random
+numbers.
+
+Those people who say T don't want any randomness in my game' just aren't living in the real world,
+because you don't know whether or not it's going to rain tomorrow. The weather people don't. They're
+what? 85% or 90%, right? Hey, that's life. Accidents happen. Good fortune, bad fortune, that's what
+random number generation and chance are all about. You slip and fall. Whoops.
+
+It's far more arbitrary in a game system to not have that opportunity, to say 'everyone who comes into
+this room slips and falls. ' Or to say 'you never fall' — that's also arbitrary. Now I don't like those games
+where you have to roll to do everything. . . I remember one game where a guy had a dice box with ten
+compartments, and he'd shake it up and go down the line to check and see if all these things would
+happen. And I said 'oh boy, this is truly a game of chance; there's not much skill involved at all.' So I
+think it's in response to that sort of thing that some of the diceless games came about. But it seems kind of
+like 'move-less chess' to me.
+
+In computer games, it's all about dungeon crawls and combat, and they're hugely popular. The same is
+true in paper games. Everybody loves the real horrible dungeon crawls rife with combat and death.
+
+Like Tomb of Horrors, or Keep on the Borderland?
+
+Keep on the Borderland was a module where I said 'I'm not trying to get any realism or verisimilitude
+going here; I'm going for pure whimsy fantasy action, and you're going to be kept amused every minute.'
+I still get emails from people saying 'yeah, that was great.' I ran a game for the Dungeons & Dragons 25th
+anniversary, and I had players dying in droves because they had forgotten how to dungeon crawl.
+
+In October of 1973, you formed Tactical Studies Rules with Don Kaye. . .
+
+After GenCon that year we formed a partnership, Don and I, and we published Cavaliers and
+Roundheads: Rules for the English Civil War, by Jeff Perren and Gary Gygax. We knew that wasn't really
+our hottest prospect, but it was all we could afford to put out. And then as that sold we were building
+towards getting enough money to do Dungeons & Dragons.
+
+Did Dave Arneson have a role in the company?
+
+No. He basically gave us concepts, but I wrote the whole of the game by myself. With a lot of input from
+a bunch of guys, of course. In there I had a list of all the guys who contributed ideas.
+
+
+
+But he was doing some "dungeon crawl" wargaming at the time?
+Absolutely, and he's credited as co-creator for his contributions.
+So the first rules set— the three-book boxed set— was published in 1974?
+Yes, January of 1974.
+Did it take off right away?
+
+Boy, we thought so. In about ten months we'd sold 1,000 copies. They were flying out the door. We had
+thought it was going to do well, because everyone liked the Chainmail fantasy. We didn't have any
+advertising, though— I think we ran a few little business card-sized ads in a few publications, but
+basically it was all word of mouth. We got the new order of 2,000 in November of 1974, and that took
+about five months to sell through. So it was going at a rate that I was really pretty satisfied with.
+
+It was just so much work. Then Don died in January of 1975, and I said 'whoa, this is just way too much
+work.' So Heritage Models said that they had a new printing operation, and they said they'd print up
+3,000 copies, and keep 300 of them to cover their printing expenses. Hey! What a deal, right? So we did
+that, and those went out the door in about three months. At that point the word was finally getting
+around, and I was publishing the Strategic Review, and I said 'okay, we've got to get a magazine, and
+we'll call it Dragon.' So we started to do our own advertising that way.
+
+Then Brian Blume came on board in, what? 1975?
+
+Yeah, he came on board. . . I think in January of 1975. 1 can't remember whether it was January or
+December of 1974. . . I guess it was December. He bought in as an equal partner, and thus we financed the
+production of Dungeons & Dragons.
+
+2975 was a busy year— you published the Greyhawk and Blackmoor supplements, and the Dungeon! Board game. . .
+
+That was David Megarry's game. I was Dave's agent for a while, and I tried to get Avalon Hill to publish
+it. When they didn't I said to Dave 'don't worry, we'll do it, because we'll have enough money now.' It
+was a good fun game, but it was a pain in the neck to pick up and put away, which I think was it's main
+drawback. All those little cards... setup and takedown was horrible. We still play— I have a full set here.
+That came around the same time that Dave Arneson was telling me about his dungeon crawl campaign.
+Dungeon! was really just an underground scenario for the Chainmail game.
+
+
+
+Boot Hill was that year, too, right?
+
+
+
+Oh yeah, Don Kaye had been wanting to do that, so Brian and I took over and did Boot Hill. It was
+originally just a little rulebook, and then the whole boxed set came out.
+
+Dungeons & Dragons was expanding quickly. Did you know in what direction you wanted to take the game at that
+point?
+
+Oh, yeah. I told Brian that we had a real problem in 1976. The game rules were so open to interpretation;
+there were three groups at Stanford who wouldn't even talk to each other. They all played, and one
+group thought 'let's go slowly and do a lot of role-playing.' One group was a killer dungeon group,
+where you rolled up a new character two or three times a night, I guess. And the other one was a 'Monte
+Haul' type of campaign. And I thought that we should try to get something that would be a little more. . .
+quantified. We needed an advanced game, and I said 'there you go!' Advanced Dungeons & Dragons.
+
+There was also a new Basic set, though, which replaced the original boxed set.
+
+John Eric Holmes — Dr. Holmes— contacted me. His son played, and he was like 'you know, I'd really like
+to clean up Dungeons & Dragons. And I said 'that's good, but I'm working on an advanced game. Why
+don't you pass the stuff through me?' So as he passed the stuff through me, he organized the basic rules,
+and then I passed on the stuff that I was working into Advanced Dungeons & Dragons, so there would be
+a smoother transition between the two, in case somebody wanted to switch from one to the other.
+
+So you launched two separate product lines? Were you afraid that would confuse people?
+
+No. I've always had lots of respect for gamers, and I though they'd instantly be able to look at one and
+the other and decide what they wanted to do. There are still people who just play original Dungeons &
+Dragons. I think it was a mistake— and the Blumes were running the company then— to kill the Basic line.
+It played differently, it was a different game than Advanced Dungeons & Dragons.
+
+Was it more entry level?
+
+No, I thought it was less structured, and you could do whatever you wanted with it. Advanced
+Dungeons & Dragons kind of pushed you along certain paths with the alignment rules and so forth. It
+was restrictive in many ways, where Dungeons & Dragons wasn't. It was just different... not as different
+as Empire of the Petal Throne— M.A.R. Barker's game. I didn't think it was a direct competitor. It was just
+another approach to gaming; I don't think it took away from the Advanced Dungeons & Dragons games
+at all.
+
+What was the first adventure module that you published?
+
+Gl: The Stedding of the Hill Giant Chief. Gl, G2, and G3 I wrote at the same time, and they were all
+published together. After I wrote the Player's Handbook I was tired of writing rules, so I took a break and
+
+
+
+wrote those adventures. Then after I wrote the Dungeon Master's Guide, I then wrote the Decent Into the
+Depths of the Earth, Shrine of the Kuo-Toa, and Vault of the Drow. Then I was kind of burned out, and
+Dave Sullivan did most of the work on Ql: Queen of the Demonweb Pits.
+
+Did any of these adventure modules develop from games that you were running?
+
+Well, I made the stuff up and played it, then everybody said 'yeah, this is fun,' and I revised it a bit and
+published it. Lawrence Schick's White Plume Mountain was what he submitted when I had call out for
+adventure module designers. Dave Cook did the Slave Lords modules, and I think those were drawn
+directly from their game. Keep on the Borderlands I just made up out of whole cloth, though. Brian said
+that we needed a new adventure module for the Basic set, something with a little more action, and a little
+broader and so forth. So I just sat down and wrote that in three weeks.
+
+What is your favorite adventure module?
+
+About a year ago I was playing in the Glacial Rift of the Frost Giant Jarl, and I'd forgotten everything, and
+damn if I didn't get into the cave where everything is slippery and dropped a +2 shield down a crevasse,
+and it was lost. Then I got to laughing and said 'god, I'm mean and awful.' This is just hideous. I think
+the ones that had the most fun with were the 'G' series— writing them and playing them. Then there's the
+Vault of the Drow, where the Drow vampire and the succubus are on the island where it's all illusionary,
+and there's a big crevasse around it, and you'd try to get up on the steps and down you'd go. Plunge 200
+feet to your death, or whatever. That was a lot of fun.
+
+What's the most entertaining character that you've ever played?
+
+Oh, definitely the one I like the best is my mage, Mordenkainen. He's always been a lot of fun to play.
+Mordenkainen's Fantastic Adventure, which Rob Kuntz wrote, is a somewhat altered and refined account
+of an actual adventure that he was on. Poor Mordenkainen, he got turned to stone that time out by that
+filthy golem with a whip of cockatrice feathers. Fortunately he was rescued, but I was near distraction at
+the time, because meanwhile Bigby was poisoned and failed his save and died.
+
+Sometimes it's not just the absolute setting— if you have a good game master, any dull place can be made
+into a lot of fun. The important thing is that the players all have a good attitude, and are there to enjoy
+themselves, and the game master is good. . . well, you can have fun with almost anything.
+
+Is there anything in the original Dungeons & Dragons rules that you wish you had done differently?
+
+Well, I think the thing that bothers me the most is in the Basic game, well, it's fine the way it is. It's easily
+mutable. In Advanced Dungeons & Dragons, I should have perhaps been a little more careful in
+explaining how to use alignment. It isn't something one wears like a badge. Otherwise no, I think
+everyone really had a good time. I think the spirit and the soul of the game were good.
+
+
+
+The other thing I would have done was to design it a little differently to facilitate, more easily, the
+expansion into other genres.
+
+Aside from fantasy ?
+
+Yeah. I was trying to revise Advanced Dungeons & Dragons — I started thinking about that in '83— but I
+didn't get to it. But had I revised it there probably would have been a few little changes in the way that
+one made one's characters, so that character could easily go into other role-playing genres and be used.
+
+I was a little more careful with Dangerous Journeys, and much more so now with Lejendary Adventure.
+We have a genre expansion up online, created for a Victorian Steampunk type of thing. Fantastical
+science. It basically works well with the same sort of systems, and you can transfer your avatar from the
+Lejendary Adventure world. I have several people working on other genre expansions, so we can do
+science fiction or horror or whatever, using about 90% of the core system from Lejendary Adventure.
+
+J have to ask about B3: Palace of the Silver Princess. . .
+
+Oh, yeah. Jean Wells.
+
+It was the first Dungeons & Dragons module written by a woman, right?
+Uh-huh. I hired Jean.
+
+Then it was released and recalled in the same day. . .
+
+Yeah, it really was just a tempest in a teapot. I was no longer in control of the creative department. Had
+TSR not made a fuss about it, I think it would have passed largely unnoticed. There were a couple of
+questionable things in it. . . the person who pulled some of them out of the dumpster really made out.
+They're going now for really high prices, but I think most of the people who get them are really
+disappointed because there's nothing really very wrong in the thing.
+
+I saw one auction on eBay last week for about $500.
+
+[laughs]
+
+Then there was the FBI raid on the TSR offices.. .
+
+I tried my best to get a little press on that thing. We had a corner building here that we were using as an
+office— it's now the Landmark Center in Lake Geneva— it was an old three story building that had been a
+hotel, and we transformed it. The bottom floor was the Dungeon Hobby Shop and so forth, and our
+offices were up above. About that time we were playtesting Top Secret, and we threw the orders out at
+
+
+
+the end of the day. Some busybody picked something out of the trash. . . the people who were writing Top
+Secret were really good, and the wording was really believable, and this person said 'oh my god, it looks
+like somebody is plotting an assassination!' So they took it to the local police, who then turned it over to
+the FBI.
+
+Well, the FBI was very red in the face when they found out that this was just a game called Top Secret. It's
+an espionage game, and everybody's playing a secret agent. . . and they were just like 'oh, god.' I really
+wanted the press to pick that story up, but they didn't. That's all it was— some orders from a game that
+got passed on to the police.
+
+As Dungeons & Dragons got more popular, it started to attract more serious detractors— especially among religious
+groups. What was your first exposure to that?
+
+Back in 1980. . . I've forgotten what the group was, but they had a magazine called Cornerstone, that
+actually published an interview with me, and it was pretty decent. They of course were saying 'demons
+and so forth, how can you deal with demons?' Well, I told them the demons in this game are as real as the
+gold or the swords or the magical spells. Magical spells? It's all make-believe. There aren't any dragons,
+there aren't any demons.
+
+They said 'well the Bible says. . .' and I said "hey —this is just a game.' They were the only religious group
+that ever contacted me. They did a fair interview, and it was in Cornerstone in... well, 1978 or 1979, 1
+don't remember. They have their point of view, and it's a religious belief and you can't argue with it. I
+thought they were fair.
+
+Those people aren't going to buy Dungeons & Dragons anyway. I thought it was a terrible mistake when
+the woman running TSR decided to take out the demons and devils — sales didn't go up, they went down.
+It's just ridiculous, people who can't separate game fantasy from reality, or from their religion... well,
+they aren't going to be playing the game anyway.
+
+There was also the book by Rona Jaffe—the one that got turned into a TV movie.
+
+Oh, god, yeah. Mazes and Monsters. I have a copy of the book. It's a dreadful potboiler, and there's more
+fantasy in that book than there is in the Dungeons & Dragons game.
+
+It all came about when James Dallas Egbert III disappeared. The private detective, to gain some notoriety
+and fame, claimed that he was lost in the steam tunnels, playing live Dungeons & Dragons. Of course
+now live action role-playing is more prominent, and you know, kids still play cops and robbers and stuff
+like that. Maybe they did play Dungeons & Dragons in the steam tunnels. Unlikely, though— it wouldn't
+be much of a game. They can't do a fantasy film with special effects good enough to do justice to what
+you can imagine in your head, with someone there to serve as game master. It was his disappearance that
+really began to get the yellow journalists on to the game. Before that we'd had some very nice press.
+
+
+
+Then Pat Pulling's son committed suicide, and she blamed it on Dungeons & Dragons. After saying in a
+newspaper interview, as I recall, 'well, he'd been playing the game for two years, and I didn't know
+about it.' I said 'well, there's the reason.' What parent doesn't know that their kid is doing for two years?
+There's clearly a lack of parental attention. From what I can see, she transferred the guilt from her lack of
+parental supervision to the game. There's another person who never bothered to call me or talk to me or
+anything.
+
+As for trying to link the Dungeons & Dragons game with Satanism. . . well, I don't know any Satanists,
+and I don't really think there's much of a cult of Satanism in the United States. I remember one time they
+found a doll's head in a field and claimed that it was probably being used in some Satanic ritual. I was
+like 'well, yeah, or maybe it was just lost by some little kid.' All of the charges that have been leveled
+against Dungeons and Dragons, none of them have ever been substantiated, and most of them have been
+repudiated by mental health professionals and so forth. They're not much made any more because
+nobody can get much press out of it these days.
+
+I think it was all rather cynical exploitation, like when people attack rock music when it's popular. I did
+see a TV evangelist that they had on the air, and he said right there in front of everybody that he knows
+for a fact that you can't be a rock and roll star without selling your soul to the devil. Then he showed
+where they were casting sorcerous spells. . . 'see that— he made that hand gesture. And now he's being
+possessed by a demon! See his face?' Of course if you contributed $15, he would send you books to warn
+you about all this.
+
+Do you think some people do take role-playing too seriously?
+
+I don't think any normal person does. Well, okay, there are people, sure. It's a human trait to overdo what
+you like to do. Some people eat too much. My favorite is the golfers who go out in the rain or in lightning
+storms. Quite a few of them get hit every year, and clearly they've taken a perfectly fine hobby to an
+extreme. They spend too much money and belong to a country club, they dress funny, and they play in
+the rain at the risk of their lives. In that regard, sure, there's people who play too many games.
+
+That's why I try to stay away from computer games, because if I get started and I like it, I can just blow
+off weeks of time. I just don't want to do anything else but play that game.
+
+I know that feeling.
+
+[laughs] When I was first married, an IFW member— Martin Campion— did a game for SSI called Rails
+West! That you could play on an Apple computer. I started playing it and I loved it— I love railroad
+games, anyway. So I played it until Gail would say 'time to go to bed,' then I'd wait until she was asleep
+and go into the other room. That darn computer, whenever you'd take over another railroad line it would
+go 'beep beep beep.' And then she'd wake up and say 'it's three o'clock. You're going to stop playing that
+
+
+
+damned game all the time or we're divorced.' And I wasn't doing any work, I was just staying up
+nights. . . I have sons who will do it now. I was just shouting at my son Alex yesterday about playing. I
+told him 'you're not doing your schoolwork, now shut off that stupid game!'
+
+So it's real easy to overdo something. I don't even have Solitaire on my computer— I take everything off.
+That way I'm much more productive.
+
+With regards to the occult criticisms, though, you have to admit that some of the Dungeons & Dragons materials
+were rather controversial. I'm thinking of the cover to Eldritch Wizardry. . .
+
+Oh, yeah, that had the girl on the altar. Well, you don't know, maybe she was just passed out there or
+something. Actually a female artist did that, so who can complain?
+
+Do you think that sort of imagery helped fuel the fire for people who viewed the game as an occult phenomenon?
+
+Well, I don't know. I suppose that DePaul University— which is a Catholic school with the Blue Demons
+as a team— there are probably those people who are anti-Catholics who would point at that and say 'aha!'
+You can find any excuse that you want. There were some irate mothers, but take a look at some of the
+comic books or the old pulp magazines with the voluptuous ladies — the lovely scantily-clad woman out
+in space with a bug-eyed monster after her. Sure, that's somewhat lurid, but the guys love it. Those
+people who complain are never going to buy the damn game anyway, so give the guys what they want.
+
+I hear people complaining these days saying 'well, there are too many scantily-clad females...' Well,
+females don't buy the game anyway. If they are and they're offended by it, use your colored pencils and
+dress them more tastefully. The game could use the sales of Playboy and Penthouse, and you need some
+good horrid demons. If you want to see something nasty, go look at Anne Rice novels. Oh boy. If you
+illustrated those novels, they'd be awfully racy. Sex and violence sells, and in role-playing games there
+really isn't much in the way of sexual innuendo in them, it's mostly just hack and slash and daring-do. So
+you want the fearsome monsters to fuel the fire, and throw a few good-looking girls on the cover so the
+players can say 'oh, yeah, that's what a girl looks like. Now back to the game.'
+
+If there was some way of getting women to play the game, I'm sure every publisher would be delighted
+to change the games accordingly. As a biological determinant, I think men think differently than women
+do, and games are basically a male pursuit right across the board.
+
+What did you think of the 2nd Edition rules?
+
+I thought basically that most of what they did could have been done in a supplement like Unearthed
+Arcana, and made so that everybody didn't have to buy a whole bunch of new stuff for no particular
+reason. The skills were mishandled, I think. You have to watch it because if you go heavily on skills, they
+fall within the archetypical character class, and nothing meaningful much beyond them. You sort of lose
+the heroic questing and the archetypes in new Dungeons & Dragons, I'm afraid. 2nd Edition. . . well I
+
+
+
+didn't like it as much as the original. Some people liked it better. They lost about half of their audience,
+though, when they came out with 2nd Edition. Someone who was there told me about that— he warned
+them about it, and they went ahead and did it anyway, and they lost about half of their players.
+
+Do you think collectible card games had any effect on the popularity of role-playing games?
+
+Sure. People were bored with what was coming out. Dungeons & Dragons has always been the major
+role-playing game. It's owned half of the audience, and when the 2nd Edition audience dropped, the
+whole of role-playing dropped. Nothing much good was coming out, so when Magic: The Gathering
+came out everybody said 'hooray! A new game to play.' Because their role-playing was the same old
+stuff, mostly. Then it sort of peaked, and for a few years I've been saying hey guys, role-playing isn't
+dead. It was in a doldrums, but the wind is picking up, and now we have the release of 3rd Edition.
+That's an action-packed game. It has some drawbacks, but I think it's going to bring in lots of new
+players. Meanwhile Magic peaked and leveled off, and now it's established itself as a classic, valid type of
+game.
+
+Do you think computer games have affected role-playing games at all?
+
+Oh, sure. Computer games are great for this reason: you can't really role-play on a computer— somebody
+always takes umbrage when I say that, but who are you playing a role to, when you're playing? It's not
+role-playing— it's semi-role-playing, and it's getting better all the time. Not to disparage them, because
+you can play whenever you want, for as long as you want. You can pause the game and come right back
+to where you were.
+
+Certainly that has taken many of the older players, and young people too. I think many young people
+haven't been introduced to what I think is the finest, face-to-face form of role-playing because they're
+busy with the computer games. And some of the old guys haven't come back to group play because they
+can satisfy their gaming wants with computer games. So sure, it's definitely had impact on paper and
+pencil games.
+
+I've said a few times in print that as I see things developing, I see the computer game of the future as the
+equivalent of the major motion picture. The Internet game is kind of like television. The face-to-face game
+is more like Broadway theater— the finest there is, but not as common. But there's nothing like the effect
+of the group interaction, you can't duplicate it. But I see all three forms of the game marching into the
+future and getting more popular. I don't think it's ever going to be too big— it's like chess and bridge. Not
+everyone plays chess, not everyone plays bridge, and not everyone role-plays. I do all three, if you give
+me that chance.
+
+When did you officially leave TSR?
+
+
+
+December 31, 1985.
+
+
+
+How did that come about?
+
+
+
+Brian and Kevin Blume had majority interesting in the company, and they said that I should go out and
+run Dungeons & Dragons Entertainment Company. It was then called TSR Entertainment. Well, I went
+out and found out that nobody on the coast liked the name 'TSR,' because they had some dealings with
+Kevin and Brian, so I changed the name of the company. I was co-producer for the Dungeons & Dragons
+cartoon series, and was working on various other projects, many of which were coming to fruition by the
+end of 1984— it takes a while to get established in the entertainment business, so they know that you
+aren't a civilian, but I had been out there for two years.
+
+Then somebody called me from New York and told me that Kevin was shopping TSR on the Street, and
+they said 'you'd better get back, we're in trouble.' So I went back and did a quiet little bit of investigation
+into what was going on, and I wrote an eight or nine page report for the board of directors, which
+included three outside directors that the Blumes had appointed. One was the CEO of a medical supply
+company, one was an attorney for a large law firm in Milwaukee, and one was the director of
+personnel— human resources, in more politically correct terms — for the American Management
+Association, thankfully now defunct. I referred to them, generously, as Moe, Shemp, and Curly.
+
+I said 'you guys have sat here and pontificated and voted with the Blumes, and ever since you've been on
+the board the company has been less and less profitable, and now we're a million and a half dollars in
+debt. You're talking about selling Dragon magazine, disbanding the RPGA, and doing various and
+sundry things, and this is clearly absolute mismanagement.' I demanded that Kevin Blume be removed as
+CEO of the company, and said that we should immediately take such measures as were necessary to get
+the company turned around.
+
+Well, Brian had a fit and he said 'who's going to manage the company?' And I told him that he and I
+could do it, like we used to. He said 'no, I won't do that any more.' So in the end these jerks voted him
+off —they agreed with me, they couldn't do much else. They went out and hired some AMA schlump to
+run the company. I was Chairman of the Board, and I had an arm on them because I had the only group
+of investors, out in Los Angeles, who were willing to buy the company, and they thought that was going
+to happen.
+
+They came in and did an audit, and we found out that there were something like 110 relatives of the
+Blumes on payroll. They all got fired, except one of them. They were getting paid more than anyone else,
+too. We had 60 or 70 leased and owned automobiles, most of which went back or were sold. We had
+systems furniture sufficient for 600 personnel— the company had about 300. About a million dollars, at
+least, in systems furniture. All the execs deferred about half their salaries for a while, and I didn't take
+any of my royalty payments.
+
+I immediately put together Unearthed Arcana, and between that and Oriental Adventures, well, that was
+
+
+
+all it took to turn the company around. But the Blumes were really angry at me, and they wanted me to
+buy their stock at some ridiculous number, and I said no. They were so furious to me that they sold to
+someone that I had hired into the company to help turn it around in what I think to this day was an
+illegal transfer— it violated the buy /sell agreement that we had. But I lost the court case.
+
+At that point I said "fuck it. I'm so sick of the way this company is being run." When I was managing the
+company, for example, we did the most expensive bindings that we could for our books. The old
+Dungeons & Dragons books don't fall apart. They were all schoolbook covers, McCain stitched on the
+side. The Blumes dropped that because we made an extra dime per copy. I told them 'you're screwing the
+gamers,' but they just didn't care. They were in it for the money, and I was just in it to provide good
+games. Even so, when I was running the company, we had a lower overhead and a higher profit margin
+than they had ever since. They certainly sold more books, but they were never as profitable. I think a lot
+of the spirit was lot, which is why most of the classic stuff came out when there were real gamers who
+loved gaming in there, not just people trying to make a buck off other people.
+
+So I said "screw it, I'm out of here. Buy out my stock, buy out my interest, I'm gone." And we concluded
+the deal on December 31, 1985.
+
+7s that when Lorraine Williams took over the company?
+
+Uh-huh. She did. And I think it took her. . . hmm, when did she finally sell to Wizards?
+That was in 1997.
+
+Right. At that point TSR had run up a debt of $26.5 million secured, and lord knows how much
+unsecured. So she was even better than the Blumes at running the company into the ground.
+
+There were rumors that she didn't hold gamers in very high esteem.
+
+No, she said openly that they were socially her inferiors. She did announce that she was going to show
+the other companies how to properly run a business, which I thought was ironic. I don't think we'll ever
+hear about her in gaming again. How anyone could keep the company's doors open as long as they were
+was beyond me.
+
+Did Brian Blume really state that he wanted 'obscene profits at Federally insured safety?'
+
+Absolutely, he did. He said that while we were at 723 Williams St., and he was standing there and there
+were a bunch of employees there, and he said T want obscene profits at Federally insured safety.' That's
+when I was complaining about the Dieties and Demigods book, when he took out the Cthulhu and the
+Melnibonean mythos. The Melnibonean stuff came out simply because he refused to plug any other
+company. He said T won't plug Chaosium's stuff.' We had permission from Michael Moorcock to do that.
+Unbeknownst to him, of course, his agent had licensed the books to Chaosium, but I had the letter from
+
+
+
+Michael, and I had plugged Michael's stuff for free for a long time because I really liked it. He thanked
+me at a DragonCon in 1994 for doubling his readership.
+
+When Brian pulled those two out of the book, I said 'well, we'd better come up with something to replace
+them.' And Brian said 'nah, who cares.'
+
+In fact the main reason that Lorraine Williams was against me was that I had told her that when we
+pulled out of this, I wanted to reward all the people who had been working hard, and I thought they
+should all get shares of stock, and I thought all the creative people should be getting a royalty-like
+payment. And she said 'over my dead body.' I think we would have run a profitable company that way,
+but she didn't.
+
+Are you glad that you got out when you did?
+
+Oh, yeah. The way that the Blumes were running things disturbed me greatly, and I was the face of the
+company. It was often very difficult, because everyone thought I owned it and ran it. I owned 30% of it,
+and did as I was told after 1981. The company restructured then, and if you ever get a chance to see the
+annual report that was published. . . we were the company with three presidents. There was a board of
+directors, that directs the officers. That consisted of Brian, Kevin, and myself. I was the President, and
+then under me were two Presidents— the President of Creative, Brian Blume, and the President of
+Operations, Kevin Blume. So I could tell them something, and if they didn't do it I could speak to the
+board about it. [laughs] It was a classic box. They wanted to run the company because they thought they
+could do better, and that's why I ended up out on the West coast. I had a great time out there, so I can't
+complain.
+
+After you left, you went on to do Dangerous Journeys. . .
+Yes. Lorraine didn't like that, so she sued me.
+For what?
+
+Oh, they said it was infringing on the copyrights of Dungeons & Dragons. It was a bogus suit, but they
+spent us out of court. We had to go into settlement negotiations because of the cost of the whole thing.
+We'd spent a half-million dollars already; they probably spent a million and a half or two, which they
+couldn't afford. I had to laugh, because that was probably the straw that broke the camel's back, because
+after that TSR went right down the tubes. In the settlement they paid a bunch of money, all of which I
+didn't collect.
+
+And they got the rights to the game from Game Designer's Workshop?
+
+Yeah, they bought out GDWs inventory, and paid for that. Paid some money to us — they were paying
+
+
+
+yearly installments. I was here in town, and I was at the local liquor store buying a bottle of gin or
+something, and I bumped into a lady there who said 'damn, Gary, we sure miss you. You know what
+those son-of-a-bitches have done now?' And I said 'no, what?' She said 'well, Lorraine says that we're all
+moving— she's sold the building to the printer. And she sold the accounting department too.' She'd sold
+both the building and the accounting department to the printer.
+
+I told Gail 'TSR has just sold the only asset they had that wasn't pledged to a bank. They're going under
+in no time.' Sure enough, three months later Peter Adkison was in town seeing me and doing the
+negotiation to buy them.
+
+Do you think the Wizards of the Coast acquisition was a good thing for Dungeons & Dragons?
+
+Oh, you bet. I don't know how close it was— I wasn't privy to that information— but they couldn't have
+been more than a month away from forced bankruptcy. That would have been a disaster for role-playing.
+Just a disaster.
+
+Did they start work on the 3rd Edition right away?
+
+Yeah, they did almost immediately. It took them a while. Had I done, I could have finished it in half the
+time that it took three or four guys, but when you work by committee things get slow.
+
+Did you have any involvement in the design process?
+
+No, not really. I did a review and critique for them prior to release, though.
+What do you think of the 3rd Edition?
+
+Is it an improvement over original Dungeons & Dragons? I don't know— I don't think so. A whole
+different game? Yes.
+
+I love the Dungeon Master's Guide— it's basically a tutorial on how to do a dungeon crawl. As I read that
+I said 'whew, all this stuff I'd forgotten.' It's definitely aimed at action and rapid advancement. It's a
+game made to bring in new young players that want to do slam-bang hack and slash, and it's good at it.
+My sons Ernie and Luke are working on a d20 adventure right now, and I've seen parts of it in play, and
+I'll probably contribute a few fun ideas. Boy, how they love it— they're having such a good time. It's
+going to breathe some new life into gaming.
+
+You're doing some writing for Dragon magazine now, right?
+
+
+
+I have a regular column there.
+
+
+
+Any plans to do any other work for Wizards?
+
+
+
+I don't know, now that Peter's gone. Peter wanted to do sort of a Dungeon Master's how-to book with
+me, but now that Peter's gone I doubt that will happen. One of the things that I was approached about by
+the Role-Playing Game Association, they wanted me to do the original Greyhawk castle and dungeons.
+But that would require the co-authorship of Rob Kuntz. I'm so busy right now. . . it's a huge project. And
+Rob isn't interested in signing a non-disclosure agreement with my company. So I don't think we'll get
+too far there. Also, if I do design work like that, I expect royalty payments with advances, and I don't
+think the RPGA wants to do that.
+
+What do you think of BioWare's upcoming game, Neverwinter Nights?
+
+I've though all along that any game— massively multiplayer or anything where you go online— is going
+to do well if it's well done. You've got an ever-growing audience of people. I can't tell you how many
+times my game group is busy. Now that they're older, well, one's off to college, and one has to work
+nights, and so on. You are going to run into that sort of stuff online, but not nearly as badly as when you
+try to physically bring someone into one location.
+
+And I like the idea. I love computer games too, and I think they've got great futures. I'm looking forward
+to the time when you have video and audio hookups on your computer— when that comes standard. I've
+been a fan of the computer for role-playing since before the Internet. You can do all your spectacular
+stuff, all your effects and cinematics and maps and such. I was always trying to get TSR to get more
+involved in that.
+
+When Tomb of Horrors was popular, it was because of the bad— we couldn't really afford anything
+better— illustrations. 'Here's what you see,' and so forth. Of course because I liked it and wanted to do
+more of that, well, the Expedition to the Barrier Peaks had some of that, but after that they dropped the
+whole idea. Just simply because I liked it. Then instead of doing role-playing on the computer, they did
+Fight in the Skies, in their abortive attempt to get into computer games.
+
+I use my computer only as a tool to write. . . well, and answer email. And play games, when I get a
+chance. I love them.
