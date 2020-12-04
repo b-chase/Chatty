@@ -35,12 +35,15 @@ class chat_bot:
 
     def update_phrases(self, tokens):
         # updates counters in the phrases dictionary with phrases counted from the new phrase
+        for x in range(2:self.max_seq_length+1) if x not in self.phrases:
+            self.phrases[x] = Counter()
         for x in self.phrases:
             self.phrases[x].update(self.get_ngram_count(tokens, x))
         return
 
     def _get_response_tail(self, tokens):
-        return tokens[-self.max_seq_length + 1:]
+        num_words = max(len(tokens)+1, self.max_seq_length)
+        return tokens[1-num_words:]
 
     def save_sent_patterns(self, text):
         sentences = sent_tokenize()
@@ -56,7 +59,7 @@ class chat_bot:
 
     def save_learning(self, filename="default.mnd"):
         with open(filename, 'wb') as savefile:
-            pickle.dump(savefile, self.phrases)
+            pickle.dump(self.phrases, savefile)
 
     def load_learning(self, filename="default.mnd"):
         with open(filename, 'rb') as openfile:
@@ -108,7 +111,7 @@ class chat_bot:
         return
 
 
-testbot = chat_bot(10)
+testbot = chat_bot(15)
 #testbot.pre_load_text("gygax_interview.txt")
 testbot.converse()
 
