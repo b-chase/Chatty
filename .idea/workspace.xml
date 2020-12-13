@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7000b76-2b50-4b8b-9d87-4586ed5c01bf" name="Default Changelist" comment="" />
+    <list default="true" id="d7000b76-2b50-4b8b-9d87-4586ed5c01bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Chatty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Chatty.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/process_text.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,15 +33,15 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="pythonProject1" />
+      <module name="Chatty" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\bcraw\AppData\Local\Programs\Python\Python38\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -69,22 +74,26 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607128030346" />
-    <state width="1579" height="244" key="GridCell.Tab.0.bottom" timestamp="1607092580857">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1899" height="244" key="GridCell.Tab.0.bottom" timestamp="1607873549788">
+      <screen x="-1920" y="-78" width="1920" height="1040" />
     </state>
-    <state width="1579" height="244" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607092580857" />
-    <state width="1579" height="244" key="GridCell.Tab.0.center" timestamp="1607092580857">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1899" height="244" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-78.1920.1040@-1920.-78.1920.1040" timestamp="1607873549788" />
+    <state width="1579" height="244" key="GridCell.Tab.0.bottom/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607806284478" />
+    <state width="1899" height="244" key="GridCell.Tab.0.center" timestamp="1607873549788">
+      <screen x="-1920" y="-78" width="1920" height="1040" />
     </state>
-    <state width="1579" height="244" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607092580857" />
-    <state width="1579" height="244" key="GridCell.Tab.0.left" timestamp="1607092580857">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1899" height="244" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-78.1920.1040@-1920.-78.1920.1040" timestamp="1607873549788" />
+    <state width="1579" height="244" key="GridCell.Tab.0.center/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607806284478" />
+    <state width="1899" height="244" key="GridCell.Tab.0.left" timestamp="1607873549788">
+      <screen x="-1920" y="-78" width="1920" height="1040" />
     </state>
-    <state width="1579" height="244" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607092580857" />
-    <state width="1579" height="244" key="GridCell.Tab.0.right" timestamp="1607092580857">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1899" height="244" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-78.1920.1040@-1920.-78.1920.1040" timestamp="1607873549788" />
+    <state width="1579" height="244" key="GridCell.Tab.0.left/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607806284478" />
+    <state width="1899" height="244" key="GridCell.Tab.0.right" timestamp="1607873549788">
+      <screen x="-1920" y="-78" width="1920" height="1040" />
     </state>
-    <state width="1579" height="244" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607092580857" />
+    <state width="1899" height="244" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-78.1920.1040@-1920.-78.1920.1040" timestamp="1607873549788" />
+    <state width="1579" height="244" key="GridCell.Tab.0.right/0.0.1600.860/-1920.-78.1920.1040@0.0.1600.860" timestamp="1607806284478" />
     <state x="410" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607013556453">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

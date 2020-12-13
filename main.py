@@ -1,44 +1,52 @@
 # this will be a very dumb chatbot
 
-import random, nltk, pickle
+import pickle
+import random
 from collections import Counter
-from nltk.util import ngrams
-from nltk.tokenize import sent_tokenize, word_tokenize
-from nltk import pos_tag
-from process_text import preprocess_text
-import numpy as np
-import pandas as pd
 
-class chat_bot:
+import numpy as np
+from nltk import pos_tag
+from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk.util import ngrams
+
+from process_text import preprocess_text
+
+
+def get_ngram_count(tokens, n, max_count=None):
+    text_ngrams = ngrams(tokens, n)
+    text_frequencies = Counter(text_ngrams)
+    if max_count:
+        text_frequencies = text_frequencies.most_common(max_count)
+    return text_frequencies
+
+
+class ChatBot:
     def __init__(self, max_seq_length):
         self.max_seq_length = max_seq_length
         try:
-            self.phrases = self.load_learning()
+            self.load_learning()
             print("[[Saved learning file loaded.]]")
-        except:
+        except FileNotFoundError:
             print("[[No saved learning file found. Creating a new one.]]")
             self.phrases = {x: Counter() for x in range(2, max_seq_length + 1)}
         return
 
-    def get_ngram_count(self, tokens, n, max=None):
-        text_ngrams = ngrams(tokens, n)
-        text_frequencies = Counter(text_ngrams)
-        if max:
-            text_frequencies = text_frequencies.most_common(max)
-        return text_frequencies
-
     def pre_load_text(self, text_file_name):
         with open(text_file_name) as f:
-            tokens = preprocess_text(f.read(), use_stop=False)
+            all_lines = []
+            for line in f.readlines():
+                all_lines.append(f"<START> {line} <END>")
+            tokens = preprocess_text("\n".join(all_lines), use_stop=False)
             self.update_phrases(tokens)
         return
 
     def update_phrases(self, tokens):
         # updates counters in the phrases dictionary with phrases counted from the new phrase
-        for x in range(2:self.max_seq_length+1) if x not in self.phrases:
-            self.phrases[x] = Counter()
+        for x in range(1, self.max_seq_length+1):
+            if x not in self.phrases:
+                self.phrases[x] = Counter()
         for x in self.phrases:
-            self.phrases[x].update(self.get_ngram_count(tokens, x))
+            self.phrases[x].update(get_ngram_count(tokens, x))
         return
 
     def _get_response_tail(self, tokens):
@@ -46,7 +54,7 @@ class chat_bot:
         return tokens[1-num_words:]
 
     def save_sent_patterns(self, text):
-        sentences = sent_tokenize()
+        sentences = sent_tokenize(text)
         for sentence in sentences:
             words = word_tokenize(sentence)
             tagged = pos_tag(words)
@@ -57,33 +65,37 @@ class chat_bot:
                 self.phrases['sent_structures'][tuple(just_tags)] += 1
         return
 
-    def save_learning(self, filename="default.mnd"):
+    def save_learning(self, filename="default.pkl"):
         with open(filename, 'wb') as savefile:
             pickle.dump(self.phrases, savefile)
+        return
 
-    def load_learning(self, filename="default.mnd"):
+    def load_learning(self, filename="default.pkl"):
         with open(filename, 'rb') as openfile:
             self.phrases = pickle.load(openfile)
+        return
 
     def generate_response(self, last_words):
         next_word = ""
         if type(last_words) is str:
             # for debugging
             processed = preprocess_text(last_words, use_stop=False)
-            self.update_phrases(processed)
+            if True:  # eventually learning chat from the user can be optional
+                self.update_phrases(processed)
             last_words = self._get_response_tail(processed)
         response = []
-        while (next_word not in ".?!" or 3 > len(response)) and len(response) < 60:
-            #print(f"The matching list of words is now: {last_words}")
+        while next_word != "<end>" and len(response) < 60:
+            # print(f"The matching list of words is now: {last_words}")
             next_word = self._choose_next_word(last_words)
-            #print(f"The next word is: {next_word}")
+            # print(f"The next word is: {next_word}")
             response.append(next_word)
             last_words = last_words[2:] + [next_word]
-        return " ".join(response).replace(" .", ".").replace(" !", "!").replace(" ?", "?")
+        if len(response) == 60:
+            print("Hit max response length!")
+        return " ".join(response).replace("<start>", "").replace("<end>", "")
 
     def _choose_next_word(self, last_words):
         matching = {}
-        choice = ""
         for x in reversed(sorted(self.phrases)):
             last_w_sub = tuple(last_words[-x + 1:])
             matching.update({ngram: np.log(x*count) for ngram, count in self.phrases[x].items() if ngram[:-1] ==
@@ -98,7 +110,7 @@ class chat_bot:
         while loop_run:
             bot_tokens = preprocess_text(out_message, use_stop=False)
             bot_tail = self._get_response_tail(bot_tokens)
-            user_text = input(out_message+"\n>> ")
+            user_text = "<START> " + input(out_message+"\n>> ") + " <END>"
             for w in quit_words:
                 if w in user_text.lower():
                     print("Okay. Thanks for chatting! Bye!")
@@ -111,7 +123,6 @@ class chat_bot:
         return
 
 
-testbot = chat_bot(15)
-#testbot.pre_load_text("gygax_interview.txt")
+testbot = ChatBot(20)
+testbot.pre_load_text("saved_tweets2.txt")
 testbot.converse()
-
